@@ -1,0 +1,23 @@
+a {
+  text-decoration: none;
+}
+.course-link {
+  color: #ed6b4f;
+}
+h6 {
+  margin: 0px;
+}
+.fas {
+  width: 12px;
+  height: 12px;
+}
+.duration {
+  background-color: #ffe4e8;
+  border-radius: 20px;
+  padding: 5px;
+  color: #ff4a60;
+  font-weight: bolder;
+}
+.star {
+  color: #ffc014;
+}
